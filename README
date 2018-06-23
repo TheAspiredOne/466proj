@@ -1,0 +1,13 @@
+## Avery Tan (altan) 1392212)
+
+##Contents(4 files)
+   * README
+   * Evaluating_Classification_Models_in_a_Binary_Classification_Problem.pdf
+   * ROC_curve.png
+   * exp.py
+
+## Instructions for exp.py
+   * includes 3 main functions:
+      * cross_validate()  <-- performs crossvalidation via LOOCV to select hyperparameters
+      * ttest() <--- performs t-tailed test
+      * plotROC <--- plots ROC curve
